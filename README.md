@@ -18,6 +18,7 @@
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/checkout_times2.png)
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_weekday.png)
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_weekday_gender.png)
+![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_usertype.png)
 
 
 
