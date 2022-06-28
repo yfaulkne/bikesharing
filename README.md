@@ -16,6 +16,8 @@
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/nyc_story1.png)
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/checkout_times1.png)
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/checkout_times2.png)
+![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_weekday.png)
+
 
 
 ##### [link to bikesharing_module](https://public.tableau.com/app/profile/yakeemah.faulkner/viz/bikesharing_16556617879720)
