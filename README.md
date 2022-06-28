@@ -19,8 +19,13 @@
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_weekday.png)
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_weekday_gender.png)
 ![](https://github.com/yfaulkne/bikesharing/blob/main/images/heatmap_usertype.png)
-
-
+---
+### Summary
+##### The results show that the Citi Bike model works in a highly populated or tourist attraction area. Most users start and stop their trips in the Manhattan area.
+##### If Des Moines is highly populated or draws a good amount of tourists during the year, then Citi Bike may do well there.
+##### I would suggest two more visualizations to help investors determine if this would be a good investment:
+##### 1. A graph that shows average temperatures throughout the year in Des Moines in order to determine the best months to peak the Citi Bike subscription model.
+##### 2. A heat map that shows top populated or tourist areas in Des Moines. This will help investors determine where to place the citi bikes throughout the city.
 
 
 ##### [link to bikesharing_module](https://public.tableau.com/app/profile/yakeemah.faulkner/viz/bikesharing_16556617879720)
